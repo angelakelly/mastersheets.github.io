@@ -1,5 +1,4 @@
 # mastersheets.github.io
-<!DOCTYPE>
 <html>
   <head>
     <title>HTML and CSS Workshop</title>
