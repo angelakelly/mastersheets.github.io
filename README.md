@@ -4,6 +4,6 @@
     <title>HTML and CSS Workshop</title>
   </head>
   <body>
-    <p>HTML stands for Hyper Texxt Markup Language.</p>
+    <p>HTML stands for Hyper Text Markup Language.</p>
   </body>
 </html>
