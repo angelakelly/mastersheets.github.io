@@ -8,7 +8,7 @@ h1 {
 
 img {
   width: 200px;
-  height: 500px;
+  float: right;
   border: 3px solid teal;
   /*
   border-style: solid;
